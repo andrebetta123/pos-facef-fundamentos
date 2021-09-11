@@ -3,3 +3,5 @@ if (today.isRain()){
 } else {
   printf("fire again");
 }
+
+teste de merge
