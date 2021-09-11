@@ -3,3 +3,6 @@ if (today.isRain()){
 } else {
   printf("fire again");
 }
+
+
+caraca
